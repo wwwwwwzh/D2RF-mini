@@ -43,3 +43,17 @@ The checkpoints are in [Google Drive](https://drive.google.com/drive/folders/1_2
 There are a total of 8 scenes used in the paper. You can download all the data in [here](https://drive.google.com/drive/folders/1nUNWrFLKmK2g-ClJ4Nd9OGuxhYeu6Sv7?usp=sharing).
 ## Acknowledge
 This source code is derived from [Deblur-NeRF](https://github.com/limacv/Deblur-NeRF) and [NSFF](https://github.com/zhengqili/Neural-Scene-Flow-Fields). We appreciate the effort of the contributors to these repositories.
+
+## Citation
+If you find our work useful in your research, please cite our paper.
+
+```
+@inproceedings{luo2025dynamic,
+  title={Dynamic Neural Radiance Field From Defocused Monocular Video},
+  author={Luo, Xianrui and Sun, Huiqiang and Peng, Juewen and Cao, Zhiguo},
+  booktitle={European Conference on Computer Vision},
+  pages={142--159},
+  year={2025},
+  organization={Springer}
+}
+```
